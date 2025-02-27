@@ -13,8 +13,8 @@ This project implements **K-Means Clustering** for color quantization in images,
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/Kmeans-Color-Quantization.git
-cd Kmeans-Color-Quantization
+git clone https://github.com/The-Silly-Glitch/Color-Quantization-using-K-means-Clustering.git
+cd Color-Quantization-using-K-means-Clustering
 ```
 
 ## Usage
