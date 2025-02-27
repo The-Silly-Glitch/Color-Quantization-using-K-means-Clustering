@@ -29,7 +29,7 @@ python main.py
 ## Example Output
 | Original Image | Quantized Image (K=10) |
 |---------------|-----------------------|
-| ![Original](examples/original.jpg) | ![Quantized](examples/quantized.jpg) |
+| ![Original](Color-Quantization-using-K-means-Clustering\assets\Original.jpg) | ![Quantized](Color-Quantization-using-K-means-Clustering\assets\Quantized.jpg) |
 
 ## CUDA Acceleration (WIP)
 - The CUDA implementation is under development using **CuPy**.
