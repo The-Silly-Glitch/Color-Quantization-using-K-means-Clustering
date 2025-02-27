@@ -29,7 +29,7 @@ python main.py
 ## Example Output
 | Original Image | Quantized Image (K=10) |
 |---------------|-----------------------|
-| ![Original](Color-Quantization-using-K-means-Clustering\assets\Original.jpg) | ![Quantized](Color-Quantization-using-K-means-Clustering\assets\Quantized.jpg) |
+| ![Original](https://github.com/The-Silly-Glitch/Color-Quantization-using-K-means-Clustering/blob/main/assets/Original.jpg) | ![Quantized](https://github.com/The-Silly-Glitch/Color-Quantization-using-K-means-Clustering/blob/main/assets/Quantized.jpg) |
 
 ## CUDA Acceleration (WIP)
 - The CUDA implementation is under development using **CuPy**.
